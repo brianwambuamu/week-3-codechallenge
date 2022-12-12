@@ -1,6 +1,5 @@
 body {
     background-color:black;
-    text-align:justify;
   }
  
   .heading {
@@ -55,12 +54,12 @@ body {
   
   img {
     
-    height: 96%;
-    width: 75%;
-    margin-left: 300px;
+    height: 800px;
+    width: 616px;
+    margin-left: 400px;
     border: 3px solid rgb(3, 4, 94);
 	border: 2px white solid;
-    
+    display:block;
   }
   
   #film-info {
